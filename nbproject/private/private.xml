@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/src/java/controller/human/InsertController.java</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/src/java/controller/human/ListController.java</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/src/java/model/HumanType.java</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/web/insert.jsp</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/src/java/dal/HumanDAO.java</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/src/java/controller/human/DeleteController.java</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/src/java/model/Human.java</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/web/list.jsp</file>
+            <file>file:/C:/Users/toanl/Documents/NetBeansProjects/SQLDemo/src/java/controller/human/EditController.java</file>
+        </group>
+    </open-files>
+</project-private>
